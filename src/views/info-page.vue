@@ -103,10 +103,12 @@
 }
 .like-section {
   width: 100%;
-  margin-top: 20px;
-  margin-bottom:40px;
+  top: 88%;
+  /* margin-top: 20px;
+  margin-bottom:40px; */
   display: flex;
   justify-content:space-around;
+  position: absolute;
 }
 .button-action{
   display:flex;
